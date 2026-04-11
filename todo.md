@@ -8,7 +8,7 @@
 
 ## 📱 Responsiveness
 - [ ] Make website mobile-friendly
-- [ ] Fix layout for small screens
+- [ ] Fix layout for small screens.
 - [ ] Test on different devices
 
 ## ✨ Features to Add
@@ -30,4 +30,4 @@
 ## 🚀 Advanced (Future)
 - [ ] Add JavaScript for interactivity
 - [ ] Create working cart system
-- [ ] Deploy website online
+- [ ] Deploy website online.
