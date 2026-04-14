@@ -5,4 +5,4 @@ A simple and visually appealing Ice Cream Parlour webpage built using only HTML 
 📌 Features
 🍨 Beautiful landing page design
 🎨 Styled using pure CSS
-📱 Responsive layout (works on different screen sizes)
+📱 Responsive layout (works on different screen sizes).
