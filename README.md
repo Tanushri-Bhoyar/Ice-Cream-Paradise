@@ -12,7 +12,7 @@ This project started as a basic static website and was later enhanced with inter
 * 🌙 **Dark mode toggle** for better viewing experience
 * 🛒 **Add to cart (basic interaction)**
 * 🍦 **Loading animation** for smoother feel
-* ✨ Smooth scrolling and hover animations
+* ✨ Smooth scrolling and hover animations.
 
 ---
 
