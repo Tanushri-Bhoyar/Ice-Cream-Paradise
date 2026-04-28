@@ -52,5 +52,5 @@ This project started as a basic static website and was later enhanced with inter
 ## 🙌 Final Note
 
 This project helped me move from a **basic static site** to a more **interactive frontend project**.
-Still improving it step by step 🚀
+Still improving it step by step.
 
