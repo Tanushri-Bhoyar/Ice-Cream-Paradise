@@ -30,4 +30,4 @@
 ## 🚀 Advanced (Future)
 - [ ] Add JavaScript for interactivity
 - [ ] Create working cart system
-- [ ] Deploy website online.
+- [ ] Deploy website online
