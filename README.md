@@ -8,7 +8,7 @@ This project started as a basic static website and was later enhanced with inter
 ## 🚀 Features
 
 * 🎨 Beautiful and responsive UI
-* 🔍 **Search functionality** to find your favorite flavors
+* 🔍 **Search functionality** to find you favorite flavors
 * 🌙 **Dark mode toggle** for better viewing experience
 * 🛒 **Add to cart (basic interaction)**
 * 🍦 **Loading animation** for smoother feel
