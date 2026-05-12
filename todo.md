@@ -18,7 +18,7 @@
 - [ ] Add footer section
 
 ## 🎨 Animations
-- [ ] Add fade-in effect on load
+- [ ] Add fade-in effect on load.
 - [ ] Add hover animation on images
 - [ ] Try simple CSS transitions
 
